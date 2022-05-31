@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <title>Miles | Wine Jazz Bar & Pizzeria</title>
+
+  <!--META TAGS-->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
+  <meta name="robots" content="index, follow" />
+  <meta name="googlebot" content="index, follow" />
+  <meta name="author" content="Luis Antonio - Webmaster - luis.asperes.10@gmail.com" />
+  <meta name="publisher" content="Luis Antonio - Webmaster - luis.asperes.10@gmail.com" />
+  <meta name="keywords" content="pizzas doces salgadas vinhos sabor requinte importados nacionais wine música ambiente happy hour eventos bar agradável intimista aconchegante reuniões jazz ao vivo apresentações pizzeria napoletana farinha 00" />
+  <meta property="og:locale" content="pt_BR" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Miles | Wine Jazz Bar & Pizzeria" />
+  <meta property="og:description" content="Miles | Wine Jazz Bar & Pizzeria" />
+  <meta property="og:url" content="http://www.mileswinebar.com.br/" />
+  <meta property="og:site_name" content="Miles | Wine Jazz Bar & Pizzeria" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:description" content="Miles | Wine Jazz Bar & Pizzeria" />
+  <meta name="twitter:title" content="Miles | Wine Jazz Bar & Pizzeria" />
+  <!--//META TAGS-->
+
+  <!-- <script src="https://code.jquery.com/jquery-3.4.1.min.js" crossorigin="anonymous"></script> -->
+  <!-- Latest compiled and minified CSS -->
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous"> -->
+  <!-- Optional theme -->
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap-theme.min.css" integrity="sha384-6pzBo3FDv/PJ8r2KRkGHifhEocL+1X2rVCTTkUfGk7/0pbek5mMa1upzvWbrUbOZ" crossorigin="anonymous"> -->
+  <!-- Latest compiled and minified JavaScript -->
+  <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script> -->
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- icones navegador -->
+  <link rel="apple-touch-icon" href="Public/assets/img/favicon.png">
+  <link rel="icon" href="Public/assets/img/favicon.png">
+  <!-- //icones navegador -->
+
+  <!-- estilos e fontes -->
+  <link lazyload rel="stylesheet" href="Public/assets/css/CSS_TOTAL.css">
+  <!-- //estilos e fontes -->
+
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KRX4RR8');</script>
+  <!-- End Google Tag Manager -->
+
+  <!-- Global site tag (gtag.js) - Google Ads -->
+  <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=AW-442940530"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'AW-442940530');
+  </script>   -->
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+      <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KRX4RR8" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+  <!-- Header -->
+  <div class="fundo-header">
+    <header id="header">
+        <div class="container d-flex">
+          <div class="logo mr-auto">
+            <h1 class="text-light"><a href="home"><span>MILES</span></a></h1>
+            <!-- <a href="index.html"><img async src="Public/assets/img/logo.png" alt="" class="img-fluid"></a>-->
+          </div>
+          <nav class="nav-menu d-none d-lg-block">
+            <ul>
+              <li><a href="home">Home</a></li><li><a href="omiles">O Miles</a></li><li><a href="delivery">Delivery</a></li><li><a href="Public/assets/arquivos/pdfs/Cardapio.pdf" target='_blank'>Cardápio</a></li><li><a href="Public/assets/arquivos/pdfs/WineList.pdf" target='_blank'>Wine List</a></li><li class="active"><a href="galeria">Galeria</a></li><li><a href="http://www.mileswinebar.com.br/contato">Contato</a></li>            </ul>
+          </nav>
+        </div>
+    </header>
+  </div>
+  <!-- //Header -->
+
+  <!-- Secao -->
+  <div id="main">
+  <!-- Galeria -->
+<section class="inner-page">
+  <div class="container breadcrumbs ">
+    <div class="d-flex justify-content-between align-items-center">
+      <h2>GALERIA</h2>
+      <ol>
+        <li><a href="Home">Home</a></li>
+        <li>Galeria</li>
+      </ol>
+    </div>
+  </div>
+  <div class="container">
+    <div class="inner-page-content">
+        <div class="row no-gutters">
+
+                  <div class="col-md-3 col-sm-6 col-6">
+                    <div class="gallery-item">
+                      <a href="Public/assets/img/galeria/miles_gal_12.jpg" class="venobox" data-gall="gallery-item">
+                        <img async src="Public/assets/img/galeria/miles_gal_12.jpg" alt="" class="img-fluid">
+                      </a>
+                    </div>
+                  </div>
+
+                  <div class="col-md-3 col-sm-6 col-6">
+                    <div class="gallery-item">
+                      <a href="Public/assets/img/galeria/miles_gal_13.jpg" class="venobox" data-gall="gallery-item">
+                        <img async src="Public/assets/img/galeria/miles_gal_13.jpg" alt="" class="img-fluid">
+                      </a>
+                    </div>
+                  </div>
+
+                  <div class="col-md-3 col-sm-6 col-6">
+                    <div class="gallery-item">
+                      <a href="Public/assets/img/galeria/miles_gal_16.jpg" class="venobox" data-gall="gallery-item">
+                        <img async src="Public/assets/img/galeria/miles_gal_16.jpg" alt="" class="img-fluid">
+                      </a>
+                    </div>
+                  </div>
+
+                  <div class="col-md-3 col-sm-6 col-6">
+                    <div class="gallery-item">
+                      <a href="Public/assets/img/galeria/miles_gal_19.jpg" class="venobox" data-gall="gallery-item">
+                        <img async src="Public/assets/img/galeria/miles_gal_19.jpg" alt="" class="img-fluid">
+                      </a>
+                    </div>
+                  </div>
+
+                  <div class="col-md-3 col-sm-6 col-6">
+                    <div class="gallery-item">
+                      <a href="Public/assets/img/galeria/miles_gal_15.jpg" class="venobox" data-gall="gallery-item">
+                        <img async src="Public/assets/img/galeria/miles_gal_15.jpg" alt="" class="img-fluid">
+                      </a>
+                    </div>
+                  </div>
+
+                  <div class="col-md-3 col-sm-6 col-6">
+                    <div class="gallery-item">
+                      <a href="Public/assets/img/galeria/miles_gal_17.jpg" class="venobox" data-gall="gallery-item">
+                        <img async src="Public/assets/img/galeria/miles_gal_17.jpg" alt="" class="img-fluid">
+                      </a>
+                    </div>
+                  </div>
+
+                  <div class="col-md-3 col-sm-6 col-6">
+                    <div class="gallery-item">
+                      <a href="Public/assets/img/galeria/miles_gal_18.jpg" class="venobox" data-gall="gallery-item">
+                        <img async src="Public/assets/img/galeria/miles_gal_18.jpg" alt="" class="img-fluid">
+                      </a>
+                    </div>
+                  </div>
+
+                  <div class="col-md-3 col-sm-6 col-6">
+                    <div class="gallery-item">
+                      <a href="Public/assets/img/galeria/miles_gal_1.jpg" class="venobox" data-gall="gallery-item">
+                        <img async src="Public/assets/img/galeria/miles_gal_1.jpg" alt="" class="img-fluid">
+                      </a>
+                    </div>
+                  </div>
+
+                  <div class="col-md-3 col-sm-6 col-6">
+                    <div class="gallery-item">
+                      <a href="Public/assets/img/galeria/miles_gal_11.jpg" class="venobox" data-gall="gallery-item">
+                        <img async src="Public/assets/img/galeria/miles_gal_11.jpg" alt="" class="img-fluid">
+                      </a>
+                    </div>
+                  </div>
+
+                  <div class="col-md-3 col-sm-6 col-6">
+                    <div class="gallery-item">
+                      <a href="Public/assets/img/galeria/miles_gal_3.jpg" class="venobox" data-gall="gallery-item">
+                        <img async src="Public/assets/img/galeria/miles_gal_3.jpg" alt="" class="img-fluid">
+                      </a>
+                    </div>
+                  </div>
+
+                  <div class="col-md-3 col-sm-6 col-6">
+                    <div class="gallery-item">
+                      <a href="Public/assets/img/galeria/miles_gal_4.jpg" class="venobox" data-gall="gallery-item">
+                        <img async src="Public/assets/img/galeria/miles_gal_4.jpg" alt="" class="img-fluid">
+                      </a>
+                    </div>
+                  </div>
+
+                  <div class="col-md-3 col-sm-6 col-6">
+                    <div class="gallery-item">
+                      <a href="Public/assets/img/galeria/miles_gal_14.jpg" class="venobox" data-gall="gallery-item">
+                        <img async src="Public/assets/img/galeria/miles_gal_14.jpg" alt="" class="img-fluid">
+                      </a>
+                    </div>
+                  </div>
+
+                  <div class="col-md-3 col-sm-6 col-6">
+                    <div class="gallery-item">
+                      <a href="Public/assets/img/galeria/miles_gal_6.jpg" class="venobox" data-gall="gallery-item">
+                        <img async src="Public/assets/img/galeria/miles_gal_6.jpg" alt="" class="img-fluid">
+                      </a>
+                    </div>
+                  </div>
+
+                  <div class="col-md-3 col-sm-6 col-6">
+                    <div class="gallery-item">
+                      <a href="Public/assets/img/galeria/miles_gal_7.jpg" class="venobox" data-gall="gallery-item">
+                        <img async src="Public/assets/img/galeria/miles_gal_7.jpg" alt="" class="img-fluid">
+                      </a>
+                    </div>
+                  </div>
+
+                  <div class="col-md-3 col-sm-6 col-6">
+                    <div class="gallery-item">
+                      <a href="Public/assets/img/galeria/miles_gal_8.jpg" class="venobox" data-gall="gallery-item">
+                        <img async src="Public/assets/img/galeria/miles_gal_8.jpg" alt="" class="img-fluid">
+                      </a>
+                    </div>
+                  </div>
+
+                  <div class="col-md-3 col-sm-6 col-6">
+                    <div class="gallery-item">
+                      <a href="Public/assets/img/galeria/miles_gal_5.jpg" class="venobox" data-gall="gallery-item">
+                        <img async src="Public/assets/img/galeria/miles_gal_5.jpg" alt="" class="img-fluid">
+                      </a>
+                    </div>
+                  </div>
+
+             </div>
+          </div>
+      </div>
+</section>
+<!-- //Galeria -->   </div>
+  <!-- //Secao -->
+
+  <!-- footer -->
+  <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+         <div class="row d-flex justify-content-center text-center">
+
+          <div class="col-lg-3 col-md-4">
+            <div class="footer-info">
+              <h3>Miles<br />Wine Jazz<br />Bar & Pizzeria</h3>
+              <p>
+                Avenida Antonio Macedo de Soares, 1373<a href="https://ul.waze.com/ul?place=ChIJExatdJ9QzpQR7Z4DF1GV3EM&ll=-23.61998630%2C-46.67321850&navigate=yes" title="Precisa de ajuda? Use o Waze!" target="_blank" rel="noreferrer"><img async src="Public/assets/img/waze_min.png" alt="" style="margin-left:8px;" /></a>
+              </p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4">
+            <div class="footer-info">
+              <h3>Telefones:</h3>
+              <p><a href="tel:+551150923270">11 5092-3270</a><br /><a href="tel:+5511993082739">11 99308-2739</a></p><br />
+              <h3>E-mail:</h3>
+              <p><a href="mailto:contato@mileswinebar.com.br">contato@mileswinebar.com.br</a></p>
+              <div class="social-links mt-3">
+                <a href="https://www.facebook.com/Miles-Wine-Bar-104931298103052/" class="facebook" title="FACEBOOK" target="_blank" rel="noreferrer"><i class="bx bxl-facebook"></i></a>
+                <a href="https://instagram.com/mileswinebar?igshid=14v8zas7inu7p" class="instagram" title="INSTAGRAM" target="_blank" rel="noreferrer"><i class="bx bxl-instagram"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <!-- controles de som -->
+          <div class="col-lg-4 col-md-4">
+            <audio id="bgsom" controls="true" autoplay="autoplay" preload="auto" loop data-base-dir="Public">
+              <!--<source src="Public/assets/sons/bg/HankLevy_Whiplash.ogg" type="audio/ogg">-->
+              <source src="Public/assets/sons/bg/HankLevy_Whiplash.mp3" type="audio/mpeg">
+              Seu navegador não suporta este formato de áudio.
+            </audio>
+          </div>
+          <!-- //controles de som -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong><span>Miles | Wine Jazz Bar & Pizzeria</span></strong> - Todos os direitos reservados
+      </div>
+      <div class="credits">
+        <small>Powered by <a href="https://bootstrapmade.com/">BootstrapMade</a></small>
+      </div>
+    </div>
+  </footer>
+  <!-- //footer -->
+
+  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+
+  <!--Aviso LGPD-->
+  <div id="divlgpd" class="lgpd-layer">
+    <p>
+      Utilizamos cookies para analisar a sua interação com o nosso site e assim poder oferecer a melhor experiência possível. Permanecendo neste site, você concorda com o uso destes cookies. <a id="lkmais" href="#">Saiba mais.</a>
+      <label id="lblmaisinfo">
+      Todas as informações obtidas neste site são absolutamente confidenciais e armazenadas em banco de dados.<br /><br />
+      São analisados os seguintes dados:<br /><br />
+      <i class='bx bx-check'></i> <span class="span-lgpd">Horário do acesso;</span><br />
+      <i class='bx bx-check'></i> <span class="span-lgpd">Tipo de dispositivo eletrônico usado (Smartphone, PC, Tablet, etc.);</span><br />
+      <i class='bx bx-check'></i> <span class="span-lgpd">Origem do acesso (País, Estado e Cidade);</span><br />
+      <i class='bx bx-check'></i> <span class="span-lgpd">Página(s) acessada(s);</span><br />
+      <i class='bx bx-check'></i> <span class="span-lgpd"> Eventualmente dados pessoais (nome, email, telefone, endereço, etc.) quando preenchidos, em nossos formulários, pelo próprio usuário.</span><br />
+      Estamos a disposição para o esclarecimento de quaisquer dúvidas.
+      </label>
+      <br /><button id="btnOK" type="button" class="btn button-lgpd">OK. ENTENDI!</button>
+    </p>
+  </div>
+  <!--//Aviso LGPD-->
+
+  <!-- Bibliotecas JavaScript -->
+  <script async src="Public/assets/js/JS_TOTAL.js"></script>
+  <!-- //Bibliotecas JavaScript -->
+
+  <!-- modal -->
+      <div class="modal fade" tabindex="-1" id="modalDiaDasMaes" role="dialog">
+          <div class="modal-dialog" role="document">
+              <div class="modal-content">
+                  <div class="modal-header">
+                      <button type="button" class="close dia-das-maes-close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                      <h4 class="modal-title dia-das-maes-h4">Promoção de Dia das Mães!</h4>
+                  </div>
+                  <div class="modal-body">
+                      Venha pedir sua Paella para seu almoço de Dia das Mães!
+                      <br>
+                      Entre em contato conosco pelo WhatsApp clicando <a style="color: #334240;font-weight: bold;" href="https://api.whatsapp.com/send/?phone=5511993082739">aqui</a>
+                      <br>
+                      Ou através do telefone (11) 99308-2739
+                      <br>
+                      <br>
+                      Também teremos nosso chef preparando uma deliciosa Paella ao vivo neste dia 08 de Março.
+                  </div>
+                  <div class="modal-footer">
+                      <button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
+                  </div>
+              </div>
+          </div>
+      </div>
+      <!-- /.modal -->
+      <script>
+      document.onreadystatechange = function () {
+        if (document.readyState === 'complete' && new Date() < new Date('2022-05-09')) {
+          $('#modalDiaDasMaes').modal('toggle')
+        }
+      };
+      </script>
+
+</body>
+</html>
